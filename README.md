@@ -8,7 +8,7 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Gửi bé pii ngủ ngày!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -22,7 +22,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Anh cũng yêu em',
+    messDesc: 'Anh cũng yêu em, công chúa cụa anhh',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://www.facebook.com/dung23092002' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
